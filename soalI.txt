@@ -1,0 +1,10 @@
+Matriks berukuran 6 X 2
+40 1.66 #
+50 1.41 #
+60 1.22 #
+70 1.06 #
+80 0.93 #
+90 0.84 #
+
+
+//Tambah komentar atau apapun disini
